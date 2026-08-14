@@ -1,0 +1,1 @@
+- 항상 모든 설명, 답변, 코드 주석을 한국어로 작성하세요. (Always write all explanations, answers, and code comments in Korean.)

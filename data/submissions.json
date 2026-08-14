@@ -1,0 +1,29 @@
+[
+  {
+    "studentId": "11601",
+    "name": "홍길동",
+    "scores": {
+      "responsibility_q1": 3,
+      "responsibility_q2": 3,
+      "honesty_q1": 3,
+      "honesty_q2": 3,
+      "temperance_q1": 3,
+      "temperance_q2": 3,
+      "promise_q1": 3,
+      "promise_q2": 3,
+      "consideration_q1": 3,
+      "consideration_q2": 3,
+      "fairness_q1": 3,
+      "fairness_q2": 3
+    },
+    "bestVirtue": "정직",
+    "bestVirtueReason": "정직은 가장 빛나는 덕목이기 때문",
+    "improveVirtue": "절제",
+    "improveVirtueReason": "핸드폰 사용을 줄이는 것을",
+    "pledge": "절제와 정직",
+    "totalScore": 36,
+    "resultCategory": "슈퍼스타",
+    "id": "448d96cd-b9d9-430d-8d5d-68dc9e2e19d5",
+    "timestamp": "2026-08-14T04:08:16.929Z"
+  }
+]
