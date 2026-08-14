@@ -306,9 +306,12 @@ export default function Home() {
         </div>
 
         <div style={{ textAlign: 'center', marginBottom: '4rem' }}>
-          <button type="submit" className="btn btn-primary" style={{ padding: '1rem 3rem', fontSize: '1.25rem' }} disabled={isSubmitting}>
+          <button type="submit" className="btn btn-primary" style={{ padding: '1rem 3rem', fontSize: '1.25rem', marginBottom: '1rem' }} disabled={isSubmitting}>
             {isSubmitting ? '제출 중...' : '제출하기'}
           </button>
+          <p style={{ color: 'var(--text-muted)', fontSize: '0.9rem', marginTop: '0.5rem' }}>
+            여러분들이 작성한 설문은 일시적으로 보관되며 추후 삭제될 예정입니다.
+          </p>
         </div>
       </form>
     </div>
