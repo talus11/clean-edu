@@ -161,7 +161,8 @@ export default function Home() {
 
       <div className="header">
         <p>배곧해솔중학교</p>
-        <h1>미래세대 청렴교육</h1>
+        <h1 style={{ marginBottom: '0.5rem' }}>미래세대 청렴교육</h1>
+        <p style={{ fontSize: '0.9rem', color: 'var(--text-muted)' }}>(모바일 환경에서는 가로로 보는 것을 추천드립니다.)</p>
       </div>
 
       <form onSubmit={handleSubmit}>
